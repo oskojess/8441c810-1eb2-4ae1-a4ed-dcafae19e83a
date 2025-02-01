@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.repositories.database.accountobject AccountTypeQuery {    const val FIND_ACCOUNT_BY_ACCOUNT_ID = """        SELECT * FROM accounts WHERE account_id = :accountId    """    const val FIND_ACCOUNT_BY_CATEGORY_ID = """        SELECT * FROM accounts WHERE category_id = :categoryId    """}

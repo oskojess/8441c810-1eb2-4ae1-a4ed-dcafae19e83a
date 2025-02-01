@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.repositories.database.account.entityimport jakarta.persistence.Columnimport jakarta.persistence.Embeddableimport java.io.Serializable@Embeddabledata class PersonCategoryId(    @Column(name="category_Id")    val category: String,    @Column(name="person_id")    val person: String) : Serializable

@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.domain.exceptionsclass ResourceNotFoundException(    override val message: String,    override val cause: Exception? = null) : Exception(message, cause)

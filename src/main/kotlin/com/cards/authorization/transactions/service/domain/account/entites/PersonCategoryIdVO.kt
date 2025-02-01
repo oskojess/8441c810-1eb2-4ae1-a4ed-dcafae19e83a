@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.domain.account.entitesimport java.io.Serializabledata class PersonCategoryIdVO(    val category: String,    val personId: String) : Serializable

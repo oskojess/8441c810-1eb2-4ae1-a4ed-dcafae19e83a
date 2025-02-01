@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.application.config.httpobject Constants {    const val AUTHORIZATION_HEADER_KEY = "Authorization"    const val INTERNAL_SERVER_ERROR = "INTERNAL_SERVER_ERROR"    const val CONTENT_TYPE_HEADER_KEY = "Content-Type"}

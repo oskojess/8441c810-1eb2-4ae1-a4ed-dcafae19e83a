@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.repositories.database.categoryobject CategoryQuery {    const val FIND_BY_CATEGORY_ID = """        select * from category where id = :id    """    const val FIND_BY_CATEGORY_TYPE = """        select * from category where type = :type    """}

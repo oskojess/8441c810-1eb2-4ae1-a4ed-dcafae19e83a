@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.application.service.typeobject AuthorizationCode {    const val APPROVED = "00"    const val INSUFFICIENT_BALANCE = "51"    const val OTHER_ERROR = "07"}

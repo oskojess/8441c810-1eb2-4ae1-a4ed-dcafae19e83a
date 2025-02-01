@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.domain.account.entites.typesenum class AccountCategoryType {    FOOD,    MEAL,    CASH}

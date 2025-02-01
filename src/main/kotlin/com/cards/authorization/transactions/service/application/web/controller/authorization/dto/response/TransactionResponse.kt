@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.application.web.controller.authorization.dto.responseimport java.io.Serializabledata class TransactionResponse(    val code: String) : Serializable

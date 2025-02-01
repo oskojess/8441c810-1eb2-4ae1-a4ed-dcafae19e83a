@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.application.serviceimport com.cards.authorization.transactions.service.application.service.dto.TransactionDTOimport com.cards.authorization.transactions.service.domain.account.entites.Accountinterface AuthorizationService {    fun authorize(account: Account, transaction: TransactionDTO): String}

@@ -1,0 +1,1 @@
+create table if not exists person(      	id VARCHAR(26) primary key not null,      	created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP not null,      	updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)INSERT INTO person VALUES ('01JJT1Z50Q33BYJ4NDF3RQ09VR')

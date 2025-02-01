@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.domain.categoryimport com.cards.authorization.transactions.service.domain.category.entity.Categoryinterface CategoryRepository {    fun findById(id: String): Category    fun findByCategoryType(type: String): Category?}

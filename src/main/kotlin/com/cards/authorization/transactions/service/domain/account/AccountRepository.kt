@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.domain.accountimport com.cards.authorization.transactions.service.domain.account.entites.Accountinterface AccountRepository {    fun save(account: Account): Account    fun findByAccountId(AccountId: String): Account    fun findAccountByCategoryId(categoryId: String): Account}

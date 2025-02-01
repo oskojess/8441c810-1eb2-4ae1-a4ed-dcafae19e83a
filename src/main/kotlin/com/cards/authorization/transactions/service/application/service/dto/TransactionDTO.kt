@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.application.service.dtoimport java.io.Serializableimport java.math.BigDecimaldata class TransactionDTO(    val transactionId: String,    val accountId: String,    val totalAmount: BigDecimal,    val mcc: String,    val merchant: String) : Serializable

@@ -1,0 +1,1 @@
+package com.cards.authorization.transactions.service.commonimport org.junit.jupiter.api.AfterEachimport org.junit.jupiter.api.BeforeEachabstract class AbstractInitializeTest {    @BeforeEach    open fun beforeEach() {    }    @AfterEach    open fun afterEach() {    }}
