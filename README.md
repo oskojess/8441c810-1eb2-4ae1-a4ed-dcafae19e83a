@@ -11,6 +11,14 @@ Serviço de autorização de transações responsável por validar e processar t
 ## Base de dados local
 Acessar o diretório `docker` por linha de comando e em seguida: `docker-compose up -d` para subir o container da base de dados.
 
+## Como rodar o projeto
+
+`./gradlew bootRun`
+
+> Observação: o flyway não está configurado, será necessário rodar os scripts no `db.migration`
+ para obter as tabelas e os seus dados.
+
+
 ## CURL
 ```
 curl --request POST \
