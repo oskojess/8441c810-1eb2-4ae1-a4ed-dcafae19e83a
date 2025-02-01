@@ -26,13 +26,11 @@ curl --request POST \
 }'
 ```
 <hr> 
+
 ## HDL - Simplificada
 
-(imagem)
+![HDL simplificada](HDL.png)
 
-## Modelagem de dados
-
-(imagem)
 
 # L4 - Arquitetura de solução solicitada 
 
