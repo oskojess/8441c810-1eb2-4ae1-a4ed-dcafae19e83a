@@ -35,7 +35,7 @@ curl --request POST \
 ```
 <hr> 
 
-## HDL - Simplificada
+## Arquitetura simplificada
 
 ![HDL simplificada](HDL.png)
 
