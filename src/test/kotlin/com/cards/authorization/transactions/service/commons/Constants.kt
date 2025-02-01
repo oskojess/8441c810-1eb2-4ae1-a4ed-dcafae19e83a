@@ -1,1 +1,0 @@
-package com.cards.authorization.transactions.service.commonsobject Constants {    const val ACCOUNT_ID = "01JJZ0K06C0JZGSCK4V9J5QHC4"    const val CATEGORY_ID = "01JJZ0K9JBFCT4AXNG17M43B7S"    const val CATEGORY_TYPE = "CASH"    const val INVALID_ID = "01JJZ2RB78VAVMTG638CTHPHAR"    const val TRANSACTION_ID ="01JJZJBY6GXTKNJV6KZ6NRSMWH"}
